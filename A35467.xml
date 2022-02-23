@@ -1,0 +1,341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A curious collection of paintings, of several rare masters, will be sold by auction, at the Middle Exchange; otherwise called Salisbury Change, in the Strand, on Monday the 26th. of this instant May, at three of the clock in the afternoon The conditions of sale as usual, and the time of paying and fetching away the lots so bought, to be within three days after at the said place, and paying portridge.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35467</idno>
+            <idno type="STC">Wing C7644</idno>
+            <idno type="STC">ESTC R214383</idno>
+            <idno type="EEBO-CITATION">99826562</idno>
+            <idno type="PROQUEST">99826562</idno>
+            <idno type="VID">30965</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35467)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30965)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1828:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A curious collection of paintings, of several rare masters, will be sold by auction, at the Middle Exchange; otherwise called Salisbury Change, in the Strand, on Monday the 26th. of this instant May, at three of the clock in the afternoon The conditions of sale as usual, and the time of paying and fetching away the lots so bought, to be within three days after at the said place, and paying portridge.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30965:1"/>
+            <pb facs="tcp:30965:1" rendition="simple:additions"/>
+            <p>A Curious COLLECTION OF PAINTINGS, Of ſeveral Rare Maſters, WILL BE Sold by <hi>A<g ref="char:V">Ʋ</g>CTION,</hi> at the Mid<g ref="char:EOLhyphen"/>dle <hi>Exchange;</hi> otherwiſe called <hi>Sa<g ref="char:EOLhyphen"/>lisbury Change,</hi> in the <hi>Strand,</hi> on <hi>Monday</hi> the <hi>26th.</hi> of this Inſtant <hi>May,</hi> at three of the Clock in the Afternoon.</p>
+            <p>The Conditions of Sale as uſual, and the time of Paying and fetching away the Lots ſo bought, to be within Three days after at the ſaid place, and paying Portridge.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catalogue">
+            <pb facs="tcp:30965:2"/>
+            <pb n="3" facs="tcp:30965:2"/>
+            <head>A Curious COLLECTION OF PAINTINGS.</head>
+            <list>
+               <item>No. 1 A Flower piece —</item>
+               <item>No. 2 A Fruit piece —</item>
+               <item>No. 3 Another piece of Fruit —</item>
+               <item>No. 4 A Battel —</item>
+               <item>No. 5 A piece of Still Life —</item>
+               <item>No. 6 A Landskip —</item>
+               <item>No. 7 A little Dog Chain'd —</item>
+               <item>No. 8 A Moon-ſhine —</item>
+               <item>No. 9 A Sea piece —</item>
+               <item>No. 10 Another Sea piece —</item>
+               <item>No. 11 A piece of Fruit and Flowers —</item>
+               <item>No. 12 A Hare and Dog's Head —</item>
+               <item>No. 13 A little Sea piece —</item>
+               <item>No. 14 A piece with Sheep and a Ram, after <hi>Barcham</hi> —</item>
+               <item>No. 15 <hi>Sybilla Phirgam</hi> —</item>
+               <item>No. 16 King <hi>William</hi> —</item>
+               <item>No. 17 <hi>Joſeph</hi> with the Butler and Baker in Priſon —</item>
+               <item>No. 18 King <hi>William</hi> —</item>
+               <item>No. 19 Queen <hi>Mary</hi> by the ſame Hand —</item>
+               <item>No. 20 A piece with Cocks and Hens —</item>
+               <item>No. 21 A Droll, after <hi>Oſtade</hi> —</item>
+               <pb n="4" facs="tcp:30965:3"/>
+               <item>No. 22 A ſmall Froſt with a Church —</item>
+               <item>No. 23 A Uſurer, after <hi>Teniers</hi> —</item>
+               <item>No. 24 The Earl of <hi>Lindſey</hi> in K. <hi>James</hi> the <hi>Firſt</hi>'s time —</item>
+               <item>No. 25 A Ruine, after <hi>Griffeers</hi> —</item>
+               <item>No. 26 A Stag, after <hi>Hondius</hi> —</item>
+               <item>No. 27 The giving <hi>Caeſar</hi> his due, after <hi>Rubens</hi> —</item>
+               <item>No. 28 A <hi>Lucretia</hi> in little, after <hi>le Onens</hi> —</item>
+               <item>No. 29 Cardinal <hi>Woolſey</hi> in little, after <hi>Holbeen</hi> —</item>
+               <item>No. 30 A piece with Sheep and a Goat, after <hi>Berchem</hi> —</item>
+               <item>No. 31 A pleaſant fellow, after <hi>Brower</hi> —</item>
+               <item>No. 32 King <hi>William</hi> in little —</item>
+               <item>No. 33 <hi>Cupid</hi> and <hi>Pſhyſa</hi> —</item>
+               <item>No. 34 A Landskip —</item>
+               <item>No. 35 A Ruine —</item>
+               <item>No. 36 A Bottle and Rheniſh-wine Glaſs, by a good Hand —</item>
+               <item>No. 37 The Goddeſs <hi>Diana,</hi> by a good Maſter —</item>
+               <item>No. 38 The God <hi>Apollo,</hi> of the ſame —</item>
+               <item>No. 39 <hi>Peter</hi> Denying <hi>Christ</hi> —</item>
+               <item>No. 40 A Mountebank, after <hi>Teniers</hi> —</item>
+               <item>No. 41 A Landskip with a Bridge —</item>
+               <item>No. 42 A Foreſt, with <hi>Cyprus</hi> Trees in a Garden —</item>
+               <item>No. 43 An <hi>Exe Homo,</hi> after <hi>Van Dyck</hi> —</item>
+               <item>No. 44 A Dog and Puppies —</item>
+               <item>No. 45 A <hi>Cleopatra,</hi> by a good Maſter —</item>
+               <item>No. 46 A <hi>Cupid,</hi> of the ſame —</item>
+               <item>No. 47 A Bacchus, after <hi>Van Dyck</hi> —</item>
+               <item>No. 48 A Buck Hunting —</item>
+               <item>No. 49 A Dog, Cock, and Sheep, neatly Painted —</item>
+               <item>No. 50 A Print upon a Deal-board —</item>
+               <item>No. 51 A Clowns Head, after <hi>Rubens</hi> —</item>
+               <item>No. 52 One O<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iginal Fiſh piece, very fine —</item>
+               <item>No. 53 A Landskip with Trees —</item>
+               <item>No. 54 A Foreſt with a Woman with a bundle of Sticks —</item>
+               <item>No. 55 A fine Copy, after <hi>Heemskirck</hi> —</item>
+               <item>No. 56 A Droll, after <hi>Brower</hi> —</item>
+               <item>No. 57 <hi>John Loudon,</hi> General of the <hi>Croators</hi> —</item>
+               <item>No. 58 Two Original of <hi>Flyer</hi> —</item>
+               <item>No. 59 A piece of Fruit and Muſmelion —</item>
+               <pb n="5" facs="tcp:30965:3"/>
+               <item>No. 60 King <hi>William,</hi> after <hi>Wiſſen</hi> —</item>
+               <item>No. 61 Queen <hi>Mary,</hi> of the ſame —</item>
+               <item>No. 62 The Happy Planet, finely Painted —</item>
+               <item>No. 63 A Moon-ſhine with two Oxen —</item>
+               <item>No. 64 Two Ovel Landskips, of <hi>Flyer</hi> —</item>
+               <item>No. 65 A Landskip of <hi>Flyer</hi> —</item>
+               <item>No. 66 Another of the ſame —</item>
+               <item>No. 67 The Due of <hi>Monmouth</hi> —</item>
+               <item>No. 68 The Great <hi>Seneca,</hi> by a good Maſter —</item>
+               <item>No. 69 A piece of Geeſe and Ducks —</item>
+               <item>No. 70 Two Originals of <hi>Flyer</hi> —</item>
+               <item>No. 71 A Witter piece with a Ruine —</item>
+               <item>No. 72 A Froſt with Sliders —</item>
+               <item>No. 73 The Fire of <hi>Sodom</hi> with <hi>Lot</hi> going out, an Original —</item>
+               <item>No. 74 A little Dog —</item>
+               <item>No. 75 Another little Dog —</item>
+               <item>No. 76 A piece of Fruit —</item>
+               <item>No. 77 <hi>Jame Shore,</hi> neatly Painted —</item>
+               <item>No. 78 A Head, after an <hi>Italian</hi> —</item>
+               <item>No. 79 A Dog and Duck —</item>
+               <item>No. 80 A piece of Fiſh and Fiſher-man —</item>
+               <item>No. 81 A piece of Fruit, finely Painted —</item>
+               <item>No. 82 An Outlandiſh Head —</item>
+               <item>No. 83 An Original piece of Still Life and Pickl'd Herring —</item>
+               <item>No. 84 A Flower piece, of <hi>Verelſt</hi> —</item>
+               <item>No. 85 A Hunting, after <hi>Hondius</hi> —</item>
+               <item>No. 86 The Holy Family, by a <hi>Dutch</hi> Maſter —</item>
+               <item>No. 87 <hi>Diana</hi> and her Nymhs —</item>
+               <item>No. 88 An Original, by a <hi>Dutch</hi> Maſter —</item>
+               <item>No. 89 A fine Landskip, by a good Maſter —</item>
+               <item>No. 90 A Print upon a Deal-board —</item>
+               <item>No. 91 An Original of <hi>Heemskirk</hi> —</item>
+               <item>No. 92 Another of the ſame Hand —</item>
+               <item>No. 93 Fair <hi>Roſamond</hi> —</item>
+               <item>No. 94 A fine Landskip —</item>
+               <item>No. 95 A Winter piece, by <hi>Vander Velder</hi> —</item>
+               <item>No. 96 A Fruit piece, an Original —</item>
+               <item>No. 97 A Great Landskip, finely done —</item>
+               <pb n="6" facs="tcp:30965:4"/>
+               <item>No. 98 Two ſmall Birds —</item>
+               <item>No. 99 A Droll, by <hi>Heemskirk</hi> —</item>
+               <item>No. 100 An Original half Length, of Mr. <hi>Hondius</hi> —</item>
+               <item>No. 101 A piece of Fruit, an Original of Mr. <hi>Butts</hi> —</item>
+               <item>No. 102 A piece of Fruit, drawn by the Life —</item>
+               <item>No. 103 A half Length, an Original of Mr. <hi>Hondius</hi> —</item>
+               <item>No. 104 An <hi>Eaſt-India</hi> Raven, drawn by the Life —</item>
+               <item>No. 105 Two Sheep, after <hi>Berchem</hi> —</item>
+               <item>No. 106 Two Begging <hi>Fryers,</hi> by <hi>Heemskirk</hi> —</item>
+               <item>No. 107 King <hi>David</hi> with the Head of <hi>Goliah</hi> in Triumph —</item>
+               <item>No. 108 The Bath of <hi>Diana,</hi> finely Painted —</item>
+               <item>No. 109 The Queen of <hi>Sweden</hi> in the Cradle —</item>
+               <item>No. 110 A Flower piece of, <hi>Montingo</hi> —</item>
+               <item>No. 111 A Landskip of Mr. <hi>Chriſtian</hi> —</item>
+               <item>No. 112 A King and Queen, upon Copper —</item>
+               <item>No. 113 A Flower piece, of <hi>Montingo</hi> —</item>
+               <item>No. 114 King <hi>David</hi> in his Devotion —</item>
+               <item>No. 115 A piece of a <hi>Sickman,</hi> by <hi>Heemskirk</hi> —</item>
+               <item>No. 116 A little Landskip, very fine, by a <hi>Dutch</hi> Maſter —</item>
+               <item>No. 117 Another of the ſame Hand, very fine —</item>
+               <item>No. 118 A Landskip of Chriſtian —</item>
+               <item>No. 119 An Original three quarter of Mr. <hi>Hondius</hi> —</item>
+               <item>No. 120 A Quakers Meeting, by <hi>Heemskirk</hi> —</item>
+               <item>No. 121 Another Original, of Mr. <hi>Hondius</hi> —</item>
+               <item>No. 122 Another Ovel Landskip, very fine done —</item>
+               <item>No. 123 Another, of the ſame Hand —</item>
+               <item>No. 124 A Fruit piece, finely done —</item>
+               <item>No. 125 <hi>Sampſon</hi> and a Lyon, by a <hi>Dutch</hi> Maſteer —</item>
+               <item>No. 126 A Sea piece of, <hi>Vander Velder</hi> —</item>
+               <item>No. 127 Another of the ſame Hand —</item>
+               <item>No. 128 An Original of Mr. <hi>Hondius,</hi> out of <hi>Ovid</hi> —</item>
+               <item>No. 129 A Half length Landskip, well done —</item>
+               <item>No. 130 A Flower piece, after <hi>Simon Verelſt</hi> —</item>
+               <item>No. 131 King <hi>Charles</hi> the Second well done —</item>
+               <item>No. 132 A little Landskip —</item>
+               <item>No. 133 A Landskip finely Painted —</item>
+               <item>No. 134 A Lady, after <hi>Van Dyck</hi> —</item>
+               <item>No. 135 The Woman giving her Father Suck in Priſon —</item>
+               <pb n="7" facs="tcp:30965:4"/>
+               <item>No. 136 A piece of Swans and Dogs, an Original of <hi>Hon<g ref="char:EOLhyphen"/>dius</hi> —</item>
+               <item>No. 137 Another fine Original of <hi>Hondius</hi> —</item>
+               <item>No. 138 <hi>David</hi> with the Head of <hi>Goliah</hi> —</item>
+               <item>No. 139 <hi>Aenas</hi> carrying his Father out of the Fire of <hi>Troy</hi> —</item>
+               <item>No. 140 <hi>Herodiah</hi> with the Head of St. <hi>John</hi> —</item>
+               <item>No. 141 A Hiſtory out of the Old <hi>Teſtament</hi> —</item>
+               <item>No. 142 <hi>Aeneas</hi> and <hi>Siqilla</hi> going to the <hi>Eliſium</hi> Shades —</item>
+               <item>No. 143 An <hi>Italian</hi> Tomb —</item>
+               <item>No. 144 Two Ruines in Water Colours —</item>
+               <item>No. 145 A piece of Fruit and Flowers, after <hi>Boudan</hi> —</item>
+               <item>No. 146 A Landskip with Roaches —</item>
+               <item>No. 147 A ruinated Temple at <hi>Rome,</hi> in Water Colours —</item>
+               <item>No. 148 A Bridge at <hi>Rome, Detto</hi> —</item>
+               <item>No. 149 A Ruine, of the ſame —</item>
+               <item>No. 150 A Ruine and Landskip —</item>
+               <item>No. 151 A Bridge in Water Colours —</item>
+               <item>No. 152 St. <hi>Sebaſtian</hi> —</item>
+               <item>No. 153 A Crane devouring of Frogs —</item>
+               <item>No. 154 <hi>Venus</hi> and <hi>Adonis</hi> —</item>
+               <item>No. 155 A Garden with a Houſe and Fountain —</item>
+               <item>No. 156 A <hi>Dutch</hi> School —</item>
+               <item>No. 157 Two fine Flower pieces in Water Colours —</item>
+               <item>No. 158 Two others in Gilded Frames —</item>
+               <item>No. 159 Cardinal <hi>Mazarine,</hi> after <hi>Champaire</hi> —</item>
+               <item>No. 160 A humour of a Drunken Fellow, after <hi>Teniers</hi> —</item>
+               <item>No. 161 A Droll, after <hi>Brower</hi> —</item>
+               <item>No. 162 A Droll with a Woman a Smoaking —</item>
+               <item>No. 163 <hi>Dutch</hi> Boors a Dancing —</item>
+               <item>No. 164 A Froſt piece —</item>
+               <item>No. 165 King <hi>William</hi> finely done —</item>
+               <item>No. 166 <hi>Peter</hi> denying <hi>Chriſt</hi> —</item>
+               <item>No. 167 Queen <hi>Mary,</hi> of the ſame —</item>
+               <item>No. 168 The Temple of Death, 7 Foot Long and 6 Foot High —</item>
+               <item>No. 169 King <hi>David</hi> in his Devotion —</item>
+               <item>No. 170 A piece of Still Life well done —</item>
+               <item>No. 171 The Lord of <hi>Devonſhire</hi> —</item>
+               <pb n="8" facs="tcp:30965:5"/>
+               <item>No. 172 An <hi>Exe homo</hi> —</item>
+               <item>No. 173 A fine Droll —</item>
+               <item>No. 174 An Original of <hi>Hondius,</hi> a Robbery —</item>
+               <item>No. 175 Another of the ſame Hand, an Original —</item>
+               <item>No. 176 A Devout Head of St. <hi>Peter,</hi> by a <hi>Dutch</hi> Maſter —</item>
+               <item>No. 177 A fine Sketh in Water Colours —</item>
+               <item>No. 178 A Phyloſopher's Head, finely done —</item>
+               <item>No. 179 A piece of St. <hi>John</hi> in the Wilderneſs —</item>
+               <item>No. 180 A Round Picture by <hi>Van Dalen</hi> —</item>
+               <item>No. 181 A little piece in Black and White —</item>
+               <item>No. 182 A Lady playing upon the Lute —</item>
+               <item>No. 183 A piece of Fruit and Flowers —</item>
+               <item>No. 184 An <hi>East-India</hi> Raven —</item>
+               <item>No. 185 A piece of Fruit —</item>
+               <item>No. 186 A piece of Sill Life —</item>
+               <item>No. 187 Fair <hi>Roſamond</hi> —</item>
+               <item>No. 188 A Queen that Beat the <hi>Romans</hi> —</item>
+               <item>No. 189 King <hi>Charles</hi> —</item>
+               <item>No. 190 Queen <hi>Dowager</hi> —</item>
+               <item>No. 191 King <hi>James</hi> —</item>
+               <item>No. 192 <hi>Jane Shore</hi> —</item>
+               <item>No. 193 The Flight to <hi>Aegypt</hi> —</item>
+               <item>No. 194 A Landskip with Hunting —</item>
+               <item>No. 195 The Hunting of a Stag —</item>
+               <item>No. 196 A piece of Monkeys ſhaving a Cat —</item>
+               <item>No. 197 Death and Time —</item>
+               <item>No. 198 A <hi>Dutch</hi> Droll —</item>
+               <item>No. 199 A piece of Witchcraft —</item>
+               <item>No. 200 A piece of Flowers —</item>
+               <item>No. 201 A piece after <hi>Vonet</hi> —</item>
+               <item>No. 202 A Gentleman Fanning a Lady —</item>
+               <item>No. 203 A Pidgeon, of <hi>Griffeer</hi> —</item>
+               <item>No. 204 A Droll after <hi>Tenier</hi> —</item>
+               <item>No. 205 A Virgin <hi>Mary</hi> —</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:30965:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
